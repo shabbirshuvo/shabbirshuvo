@@ -55,5 +55,5 @@ Clion, Spyder, Anaconda-Jupyter notebook.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sashuvo/)
-[![google scholar](https://github.com/shabbirshuvo/shabbirshuvo/blob/0fa04ab535b850faa37b65ce4183ba21563d405a/google%20scholar.png?style=for-the-badge&logo=twitter&logoColor=white)](https://scholar.google.com/citations?user=_I8J_VwAAAAJ&hl=en&authuser=1)
+[![google scholar](https://github.com/shabbirshuvo/shabbirshuvo/blob/0fa04ab535b850faa37b65ce4183ba21563d405a/google%20scholar.png)](https://scholar.google.com/citations?user=_I8J_VwAAAAJ&hl=en&authuser=1)
 
