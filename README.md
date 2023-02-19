@@ -5,7 +5,7 @@ Thank you for visiting my profile!
 
 
 ## 🚀 About Me
-I am a data scientist (machine and deep learning), developer and researcher.
+I am a Software Engineer, Artificial Intelligence, Machine Learning Engineer & Researcher
 
 I have good knowledge of Python and basic knowledge of C++ and Java. Additionally, I have a working knowledge of SQL, HTML, CSS, and Javascript.
 
