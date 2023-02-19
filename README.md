@@ -11,7 +11,7 @@ I have good knowledge of Python and basic knowledge of C++ and Java. Additionall
 
 Writing code is my passion, and I am learning, building my capabilities and improving myself everyday.
 
-I am a founder member and admin of the "STEM Research Group". STEM Research Group is a collaborative research group with members from different countries, and we are researching Machine learning and other STEM topics. We have already published our first paper and working on multiple research and publication projects. I am actively contributing to the research with this group.
+I am a founder member and admin of the "STEMResearch.AI". STEMResearch.AI is a collaborative research group with members from different countries, and we are researching Machine learning and other STEM topics. We have already published our first paper and working on multiple research and publication projects. I am actively contributing to the research with this group.
 
 Besides computers and coding, I like reading books, traveling, and playing chess. I am open to new ideas, job and business opportunities, and meeting new people. Call or Whatsapp me at +4917645746876 if you would like to know further about me.
 
