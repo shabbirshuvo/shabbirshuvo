@@ -5,7 +5,7 @@ Thank you for visiting my profile!
 
 
 ## 🚀 About Me
-I am a Software Engineer, Artificial Intelligence, Machine Learning Engineer & Researcher
+I am a Software Engineer, Artificial Intelligence (Machine and Deep Learning) Engineer & Researcher
 
 I have good knowledge of Python and basic knowledge of C++ and Java. Additionally, I have a working knowledge of SQL, HTML, CSS, and Javascript.
 
@@ -32,7 +32,9 @@ Programming languages:
 
 6.Java(basic working knowledge)
 
-Libraries: scikit-learn, Pytorch, Keras, Tensorflow, Pandas, Matplotlib, Seaborn, Python for Machine and deep learning
+Machine and Deep learning Libraries: scikit-learn, Pytorch, Keras, Tensorflow, Pandas, Matplotlib, Seaborn
+
+Frameworks: Django, FastAPI
 
 IDEs: Pycharm, Visual studio code, Intellij Idea, Clion, Spyder, Anaconda-Jupyter notebook.
 
