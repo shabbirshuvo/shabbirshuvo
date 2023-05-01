@@ -7,7 +7,7 @@ Thank you for visiting my profile!
 ## 🚀 About Me
 I am a Software Engineer, Artificial Intelligence (Machine and Deep Learning) Engineer & Researcher
 
-I have good knowledge of Python and basic knowledge of C++ and Java. Additionally, I have a working knowledge of SQL, HTML, CSS, and Javascript.
+I have good knowledge of Python, C++ and Java. Additionally, I have a working proficiency of SQL, HTML, CSS, and Javascript.
 
 Writing code is my passion, and I am learning, building my capabilities and improving myself everyday.
 
@@ -22,15 +22,15 @@ Programming languages:
 
 1.Python (Proficinet-Python OOP(Object oriented programming and python for machine learning)
 
-2.Javascript(basic working knowledge)
+2.Javascript
 
-3.HTML(basic working knowledge)
+3.HTML
 
-4.CSS(basic working knowledge)
+4.CSS
 
-5.C++(basic working knowledge)
+5.C++
 
-6.Java(basic working knowledge)
+6.Java
 
 Machine and Deep learning Libraries: scikit-learn, Pytorch, Keras, Tensorflow, Pandas, Matplotlib, Seaborn
 
