@@ -7,7 +7,7 @@ Thank you for visiting my profile!
 ## 🚀 About Me
 I am a Software Engineer, Artificial Intelligence (Machine and Deep Learning) Engineer & Researcher
 
-I am a decent programmer with good Python, C++, and Java knowledge. Additionally, I am proficient in SQL, HTML, CSS, Javascript, and Dart. 
+I am a decent programmer with good Python, C++, and Java knowledge. Additionally, I am proficient in SQL, HTML, CSS, Javascript, and Dart. I can develop WEB, Mobile apps (Android and iOS), and Desktop solutions. I also can incorporate the latest developments in Artificial Intelligence, such as ChatGPT, LLAMA2, etc., in the developed solutions.   
 
 Building software, websites, and mobile applications is my passion. Currently, I am working on multiple websites and mobile app development projects.
 I am learning, building my capabilities, and improving myself daily.
@@ -31,7 +31,7 @@ Programming languages:
 6. Java
 7. Dart 
 
-Machine and Deep Learning Libraries: 
+Machine and Deep Learning Technologies: 
 1. sci-kit-learn
 2. PyTorch
 3. Keras
@@ -39,10 +39,13 @@ Machine and Deep Learning Libraries:
 5. Pandas
 6. Matplotlib
 7. Seaborn
+8. OpenAI (API use cases)
+9. LLAMA2 (LLM use cases)
 
 WEB Frameworks: 
 1. Django
 2. FastAPI
+3. WordPress
 
 IDEs: 
 1. Pycharm
