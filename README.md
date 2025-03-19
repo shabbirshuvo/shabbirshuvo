@@ -1,6 +1,12 @@
 # <div align="center">👋 Hi, I'm Shabbir!</div>
 
 <div align="center">
+  <a href="https://github.com/shabbirshuvo">
+    <img src="https://komarev.com/ghpvc/?username=shabbirshuvo&style=flat-square&color=blue" alt="Profile Views"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-blue?style=for-the-badge" alt="Software Engineer"/>
   <img src="https://img.shields.io/badge/AI_Researcher-red?style=for-the-badge" alt="AI Researcher"/>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-green?style=for-the-badge" alt="Full Stack Developer"/>
