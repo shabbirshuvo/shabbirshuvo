@@ -1,62 +1,73 @@
+[![Header](https://raw.githubusercontent.com/shabbirshuvo/shabbirshuvo/main/github-header-image.png)](https://github.com/shabbirshuvo)
 
-# Hi, I'm Shabbir! 👋
-Thank you for visiting my profile!
+<div align="center">
+  <h1>Hi there, I'm Shabbir! 👋</h1>
+  <h3>Software Engineer | AI Researcher | Full-Stack Developer</h3>
+</div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sashuvo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=_I8J_VwAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+</p>
 
+## 🎯 About Me
 
-## 🚀 About Me
-I am a Software Engineer, Artificial Intelligence (Machine and Deep Learning) Engineer & Researcher
+- 🔭 Currently working as a **Software Engineer in AI Services** at Offenburg University of Applied Science, Germany
+- 🌱 Passionate about developing innovative solutions using AI, Web, and Mobile technologies
+- 👥 Founder member and admin of **STEMResearch.AI**, a collaborative research group focused on Machine Learning and STEM
+- 📚 Active researcher with publications in AI and Machine Learning
+- 💡 Always eager to learn and explore new technologies
+- 🌍 Open to international collaboration and networking
 
-I am a decent programmer with good Python, C++, and Java knowledge. Additionally, I am proficient in SQL, HTML, CSS, Javascript, and Dart. I can develop WEB, Mobile apps (Android and iOS), and Desktop solutions. I also can incorporate the latest developments in Artificial Intelligence, such as ChatGPT, LLAMA2, etc., in the developed solutions.   
+## 💻 Technical Skills
 
-Building software, websites, and mobile applications is my passion. Currently, I am working on multiple websites and mobile app development projects.
-I am learning, building my capabilities, and improving myself daily.
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
-I also have a strong research background. Currently, I am working as a software Engineer in the Artificial Intelligence Service at Offenburg University of Applied Science, Offenburg, Germany. My work involves taking part in research projects and implementing AI solutions in the research project. 
+### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
 
-I am a founder member and admin of "STEMResearch.AI." STEMResearch.AI is a collaborative research group with members from different countries, and we are researching Machine learning and other STEM topics. I am actively contributing to the collaborative research of the group. I am involved in multiple research and publication projects. 
+### Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+</p>
 
-Besides computers and coding, I like reading books, traveling, and playing chess. I am open to new ideas, job and business opportunities, and meeting new people. Call or Whatsapp me at +4917645746876 if you want to know more about me.
+### Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabbirshuvo&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbirshuvo&theme=radical" alt="GitHub Streak"/>
+</p>
 
-## 🛠 Skills
-Programming languages:
+## 📫 Get in Touch
 
-1. Python (Proficient-Python OOP(Object oriented programming and python for machine learning)
-2. Javascript
-3. HTML
-4. CSS
-5. C++
-6. Java
-7. Dart 
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sashuvo/)
+- 📱 WhatsApp: +4917645746876
+- 🎯 View my research on [Google Scholar](https://scholar.google.com/citations?user=_I8J_VwAAAAJ)
 
-Machine and Deep Learning Technologies: 
-1. sci-kit-learn
-2. PyTorch
-3. Keras
-4. Tensorflow
-5. Pandas
-6. Matplotlib
-7. Seaborn
-8. OpenAI (API use cases)
-9. LLAMA2 (LLM use cases)
+---
 
-WEB Frameworks: 
-1. Django
-2. FastAPI
-3. WordPress
-
-IDEs: 
-1. Pycharm
-2. Visual Studio code
-3. IntelliJ Idea
-4. Clion
-5. Spyder
-6. Anaconda - Jupyter notebook.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashuvo/)
-
-[![Google scholar](https://github.com/shabbirshuvo/shabbirshuvo/blob/d554d0e903cefbb6c6ae31de3e0f6f03ea115e0d/google%20scholar.png?style=for-the-badge&logo=twitter&logoColor=white)](https://scholar.google.com/citations?user=_I8J_VwAAAAJ&hl=en&authuser=1)
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
 
