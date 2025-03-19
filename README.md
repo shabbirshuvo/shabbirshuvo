@@ -17,12 +17,32 @@
 
 ## 🎯 About Me
 
-I'm a passionate Software Engineer and AI Researcher currently working at the **Artificial Intelligence Service** at **Offenburg University of Applied Science, Germany**. My expertise spans across:
+I'm a Software Engineer and AI Researcher with a focus on developing innovative solutions in artificial intelligence and machine learning. Currently, I'm working as:
 
-- 🤖 **AI & Machine Learning**: Developing cutting-edge AI solutions and conducting research
-- 💻 **Full Stack Development**: Building web and mobile applications
-- 🔬 **Research**: Leading projects at STEMResearch.AI, a collaborative research group
-- 📚 **Continuous Learning**: Always exploring new technologies and methodologies
+🏢 **Software Engineer - AI Services**
+
+- **Organization**: Hochschule Offenburg (Offenburg University of Applied Sciences)
+- **Location**: Offenburg, Germany
+- **Focus Areas**:
+  - Development of AI solutions for research projects
+  - Implementation of machine learning algorithms
+  - Full-stack development of research applications
+
+## 🎓 Research & Publications
+
+I actively contribute to the academic community through research and publications. My work focuses on:
+
+- Machine Learning Applications
+- Artificial Intelligence
+- Software Engineering
+- STEM Research
+
+### 🔬 Research Initiatives
+
+- **STEMResearch.AI**
+  - Founder member and administrator
+  - Leading collaborative research projects
+  - Coordinating international research teams
 
 ## 💻 Technical Expertise
 
@@ -54,19 +74,11 @@ I'm a passionate Software Engineer and AI Researcher currently working at the **
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </div>
 
-### Development Environment
+## 🌟 Current Projects
 
-<div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-</div>
-
-## 🌟 Featured Projects
-
-- 🤖 **STEMResearch.AI**: Founder member and admin of an international research collaboration platform
-- 🔬 **AI Research Projects**: Multiple ongoing research initiatives in Machine Learning and AI
-- 💻 **Full Stack Applications**: Various web and mobile development projects
+- 🤖 **AI Research Projects**: Developing cutting-edge AI solutions at Hochschule Offenburg
+- 🔬 **STEMResearch.AI**: Leading international research collaboration initiatives
+- 💻 **Full Stack Applications**: Building innovative web and mobile solutions
 
 ## 📫 Let's Connect!
 
@@ -78,8 +90,4 @@ I'm a passionate Software Engineer and AI Researcher currently working at the **
 
 <div align="center">
   <i>Open to collaboration, research opportunities, and innovative projects!</i>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabbirshuvo&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
