@@ -13,6 +13,9 @@
   <a href="https://scholar.google.com/citations?user=_I8J_VwAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
+  <a href="https://github.com/shabbirshuvo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ## 🎯 About Me
